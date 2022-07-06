@@ -1,4 +1,4 @@
-# Sorting
+# Sorting Algorithms
 
 This is a collection of sorting algorithms I have implemented.
 
